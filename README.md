@@ -1,10 +1,10 @@
 Backported:
 
-Minecraft;
+  Minecraft;
 
-Biomes o` plenty (WIP).
+  Biomes o` plenty (WIP).
 
 
 Redrawn:
 
-Natura (WIP).
+  Natura (WIP).
